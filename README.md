@@ -29,6 +29,8 @@ android:fitsSystemWindows="true"
         }
 </code></pre>
 
+#####红米note4.4.4截图如下：
+
 ![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo1.png)
 
 ![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo2.png)
