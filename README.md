@@ -29,6 +29,8 @@ android:fitsSystemWindows="true"
         }
 </code></pre>
 
+![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo1.png)
 
+![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo2.png)
 
 
