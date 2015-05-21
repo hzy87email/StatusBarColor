@@ -1,5 +1,5 @@
 # StatusBarColor
-##设置大于兼容4.4版本的状态栏渐变色,让你的toolbar的状态栏在4.4以上版本实现5.0的Material Design效果
+##设置大于4.4兼容版本的状态栏渐变色,让你的toolbar的状态栏在4.4以上版本实现5.0的Material Design效果
 
 <p>代码中的SystemBarTintManager文件引用了<a href="https://github.com/jgilfelt/SystemBarTint" title="Title">
 SystemBarTint</a>的开源类库,感谢作者的开源精神.</p>
@@ -32,6 +32,8 @@ android:fitsSystemWindows="true"
 </code></pre>
 
 #####红米note4.4.4截图如下：
+
+![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/diorKTU84Pjason05212015215658.gif)
 
 ![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo1.png)
 
