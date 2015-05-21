@@ -1,6 +1,8 @@
 # StatusBarColor
-设置大于兼容4.4版本的状态栏渐变色
+##设置大于兼容4.4版本的状态栏渐变色,让你的toolbar的状态栏在4.4以上实现5.0的效果
 
+<p>代码中的SystemBarTintManager文件引用了<a href="https://github.com/jgilfelt/SystemBarTint" title="Title">
+SystemBarTint</a>的开源类库,感谢作者的开源精神.</p>
 
 **步骤**
 
