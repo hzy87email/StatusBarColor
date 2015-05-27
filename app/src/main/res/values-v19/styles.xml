@@ -12,7 +12,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <!--返回键样式-->
         <item name="drawerArrowStyle">@style/AppTheme.DrawerArrowToggle</item>
-
+        <!--底部导航颜色-->
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
         <item name="android:windowTranslucentNavigation" >true</item>
         <item name="android:windowTranslucentStatus">true</item>
     </style>
