@@ -31,6 +31,8 @@ android:fitsSystemWindows="true"
         }
 </code></pre>
 
+
+
 #####红米note4.4.4截图如下：
 
 ![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/diorKTU84Pjason05212015215658.gif)
@@ -38,5 +40,9 @@ android:fitsSystemWindows="true"
 ![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo1.png)
 
 ![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/demo2.png)
+
+#####解决之前样式问题导致nexus原生虚拟键栏bug问题，添加了虚拟键颜色样式
+![Alt text](https://github.com/hzy87email/StatusBarColor/blob/master/screenshot/解决nexus原生系统底部虚拟按键导致的bug问题.png)
+
 
 
